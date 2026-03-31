@@ -20,7 +20,7 @@ Started building Chronicle today. This is the first ever entry in the Chronicle.
 **[WIN]** — *22:22:40*
 
 
-tested chronicle. working fine. even though i'm down on 2 bottles of whisley
+tested chronicle. working fine.
 
 
 ---
