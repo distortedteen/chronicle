@@ -1,9 +1,9 @@
 # Chronicle — Your Project Logbook
 
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/chronicle-log" alt="PyPI version">
-  <img src="https://img.shields.io/pypi/pyversions/chronicle-log" alt="Python versions">
-  <img src="https://img.shields.io/pypi/l/chronicle-log" alt="License">
+  <img src="https://img.shields.io/pypi/v/chronicle-cli" alt="PyPI version">
+  <img src="https://img.shields.io/pypi/pyversions/chronicle-cli" alt="Python versions">
+  <img src="https://img.shields.io/pypi/l/chronicle-cli" alt="License">
 </p>
 
 > Log the journey. Tell the story.
@@ -32,7 +32,7 @@ Chronicle is a minimal CLI logbook built for builders, makers, and anyone tracki
 ## Installation
 
 ```bash
-pip install chronicle-log
+pip install chronicle-cli
 ```
 
 Or install from source:
