@@ -239,7 +239,7 @@ chronicle --help
 
 ## License
 
-MIT License — Copyright (c) 2024 Pratyay Mukherjee
+MIT License — Copyright (c) 2026 Pratyay Mukherjee
 
 ---
 
