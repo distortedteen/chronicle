@@ -1,1 +1,2 @@
 .venv/\n__pycache__/\n*.pyc\n*.db\n.DS_Store
+*.heapsnapshot
