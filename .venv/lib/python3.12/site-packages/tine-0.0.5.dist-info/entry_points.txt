@@ -1,0 +1,2 @@
+[console_scripts]
+gauge = gauge.cli.main:main
